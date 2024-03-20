@@ -3,7 +3,7 @@
   "version": "2.1.0",
   "main": "index.js",
   "description": "Survey expert docs",
-  "repository": "https://github.com/gurug-prog/survey-expert",
+  "repository": "https://github.com/gurug-prog/survey-exp",
   "author": "gurug-prog <ivanmysterys@gmail.com>",
   "license": "ECL 2.0",
   "scripts": {

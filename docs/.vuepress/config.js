@@ -18,7 +18,7 @@ module.exports = {
     ],
   ],
   port: 3030,
-  base: "/survey-expert/",
+  base: "/survey-exp/",
   theme: "cool",
   // dest: 'dist',
   head: [
@@ -83,7 +83,7 @@ module.exports = {
 
     lastUpdated: "Останнє оновлення", // string | boolean
     // Assumes GitHub. Can also be a full GitLab url.
-    repo: "https://github.com/gurug-prog/survey-expert",
+    repo: "https://github.com/gurug-prog/survey-exp",
     // Customising the header label
     // Defaults to "GitHub"/"GitLab"/"Bitbucket" depending on `themeConfig.repo`
     repoLabel: "Github",
