@@ -71,6 +71,11 @@ module.exports = {
       },
 
       {
+        title: "Ризики та тестування",
+        path: "/testing-and-risks/",
+      },
+
+      {
         title: "Команда та фреймворк роботи",
         path: "/team/",
       },

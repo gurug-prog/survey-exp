@@ -15,6 +15,7 @@
 
 </center>
 
+
 ## Deployment
 
 <center style="
@@ -25,6 +26,19 @@
 >
 
 ![Deployment](./diagrams/deployment.svg)
+
+</center>
+
+## Network Diagram
+
+<center style="
+    border-radius:4px;
+    border: 1px solid #cfd7e6;
+    box-shadow: 0 1px 3px 0 rgba(89,105,129,.05), 0 1px 1px 0 rgba(0,0,0,.025);
+    padding: 1em;"
+>
+
+![Big Picture](./diagrams/network.svg)
 
 </center>
 
